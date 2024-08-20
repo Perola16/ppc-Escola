@@ -23,7 +23,7 @@ h1{
     padding: 0.3em;
     border-right: 1em solid black;
 }
-.a{
+.lista a{
     text-decoration: none;
 }
 a:link{
